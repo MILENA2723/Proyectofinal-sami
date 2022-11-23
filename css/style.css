@@ -7,7 +7,7 @@ body {
 }
 
 #menu{
-    background-color:rgb(245, 244, 244) !important;
+    background-color:#09bc1e !important;
 } 
 
 .logo{
@@ -15,7 +15,7 @@ body {
 }
 
 .slideimg{
-    height: 560px;
+    height: 760px;
 }
 
 /* noticias o novedades */
@@ -51,7 +51,7 @@ body {
     flex-direction: column;
     align-content: center;
     align-items: flex-start;
-    background-color: rgb(7, 7, 7);
+    background-color: #09bc1e;
     padding: 70px 0;
 }
 
@@ -201,7 +201,7 @@ body {
     letter-spacing: 1px;    
 }
 footer{
-    background-color:#000;
+    background-color:#09bc1e;
     min-height: 100px;
 }
 
